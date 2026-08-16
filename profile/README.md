@@ -42,16 +42,17 @@ That last idea is important. Lots of normal users are intimidated by GitHub Issu
 
 ## There are many ways to contribute
 
-* **Use and test Holder** — probably the highest-value contribution right now.
-* **Report bugs** — including rough edges and confusing behaviour.
-* **Suggest improvements** — particularly things discovered through real use.
-* **Development** — C++, GTK/Vala, platform integration and eventually mobile.
-* **Packaging** — Linux distributions, Windows, macOS, BSD and other platforms.
-* **Documentation and writing**
-* **Design and artwork**
-* **Testing**
+* **Use and test Holder** - probably the highest-value contribution right now.
+* **Report bugs** - including rough edges and confusing behaviour.
+* **Suggest improvements** - particularly things discovered through real use.
+* **Documentation and writing** - the website, usage guides, in-app help.
+* **Design and artwork** - look and feel of the app and the website.
+* **Packaging** - Linux distributions, Windows, macOS, BSD and other platforms.
+* **Automated Testing** - making it robust while rapidly developing.
+* **Development** - C++, GTK/Vala, platform integration and eventually mobile.
+
 
 You don't need permission to start looking around. 
 
 But considering open/discuss an issue before doing a massive piece of development.
-I don't want somebody spending three weeks implementing a feature that's incompatible with where I think Holder is going.
+I don't want somebody spending three weeks implementing a feature that's incompatible with where Holder is already going.
