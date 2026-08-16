@@ -1,8 +1,8 @@
 # Holder - Your knowledge belongs to you. Now you got to organise it.
 
-Looking for Holder itself rather than the source code?
+Looking for the Holder app itself rather than the community?
 
-**Visit the Holder website for downloads, installation and getting started.**
+Visit the Holder website for downloads, installation and getting started: https://holder.team 
 
 ## What is this?
 
