@@ -2,7 +2,7 @@
 
 This is the home of the volunteer Holder community.
 
-Holder is free open-source, new, under active development, and looking for people interested in helping shape it.
+Holder is free open-source, new, under active and rapid development, and looking for people interested in helping shape it.
 
 So HolderTeam is optimistic. At the moment it is just one person, but I have a dream.
 
