@@ -2,32 +2,7 @@
 
 Looking for the Holder app itself rather than the community?
 
-Visit the Holder website for downloads, installation and getting started: https://holder.team 
-
-## Where do I go?
-
-**Found a bug?** → Issues
-**Have an idea?** → Discussions / Issues, depending on what you choose
-**Not sure whether something is a bug?** → Discussions
-**Want to work on something?** → Issues labelled `help wanted` / `good first issue`
-**Have code ready?** → Pull request
-**Security problem?** → private security reporting, *not* a public issue
-
-## Find your way around
-
-Holder is split into small components rather than one giant repository.
-
-The big ones:
-
-**`holder-daemon`** - core Holder backend, storage, API and CLI.
-**`holder-desktop`** - GTK desktop application.
-**`holder-wesbite`** - the public homepage.
-
-The little ones:
-
-**`holder-launcher`** - launches and manages Holder components on platforms that need it.
-**`holder-release`** - public release artifacts.
-**`holder-staging`** - build/release infrastructure.
+Visit the [Holder website](https://holder.team) for downloads, installation and getting started. 
 
 ## What is HolderTeam?
 
@@ -35,7 +10,23 @@ This is the home of the open-source Holder community.
 
 Holder is new, under active development, and looking for people interested in helping shape it.
 
-So HolderTeam is optimistic. At the moment it is just one person, but we have a dream.
+So HolderTeam is optimistic. At the moment it is just one person, but I have a dream.
+
+## Find your way around
+
+Holder is split into small components rather than one giant repository.
+
+The main heroes:
+
+* **[holder-desktop](https://github.com/HolderTeam/holder-desktop)** - The desktop GUI application frontend.
+* **[holder-daemon](https://github.com/HolderTeam/holder-daemon)** - core Holder backend, storage, API and CLI.
+* **[holder-website](https://github.com/HolderTeam/holder-website)** - the public homepage.
+
+The trusty sidekicks:
+
+* [holder-launcher](https://github.com/HolderTeam/holder-launcher) - launches and manages Holder components on platforms that need it.
+* [holder-staging](https://github.com/HolderTeam/holder-staging) - build/release infrastructure.
+* [holder-release](https://github.com/HolderTeam/holder-release) - public release artifacts.
 
 ## Help by using Holder
 
@@ -66,4 +57,3 @@ You don't need permission to start looking around.
 
 But considering open/discuss an issue before doing a massive piece of development.
 I don't want somebody spending three weeks implementing a feature that's incompatible with where I think Holder is going.
-
