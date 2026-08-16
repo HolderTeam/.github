@@ -6,7 +6,7 @@ Looking for Holder itself rather than the source code?
 
 ## What is this?
 
-Holder is a free, open-source, community-built personal knowledge system.
+Holder is a free, open-source, volunteer-built personal knowledge system.
 
 ## When will this be finished?
 
@@ -20,7 +20,7 @@ Holder is being built in the open, and I'd like other people to help shape what 
 
 ## Who is making this?
 
-The project has been started by Zeth, a software engineer from England, but he is hoping others will join.
+The project has been started by me, Zeth, a software engineer from England, but I am hoping others will join.
 
 ## Why are you making this
 
@@ -34,9 +34,7 @@ But now a few decades later. I am underwater in an swirling chaotic ocean of inf
 
 How do I get on top of it? I found existing programs did not suit my needs, my ways of working. They were too closed, too commercial, too annoying. They were often worse than just a directory of text files.
 
-So I am building a tool for myself. It seems to be ever growing in scope. 
-
-The problem may be beyond me as an individual to solve. But as a community, we can work together. And this tool is useful for other people, so I am trying to make it an open source project. Then other people can contribute and we can collectively bring order to the chaos.
+So I am building a tool for myself. And it could be useful for other people, so I am trying to make it an open source project. Then other people can contribute and we can collectively bring order to the chaos.
 
 ## How can I help?
 
