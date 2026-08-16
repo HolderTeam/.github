@@ -1,4 +1,4 @@
-# Holder - Your knowledge belongs to you. Now you got to organise it.
+# Holder - Your knowledge belongs to you.
 
 Looking for the Holder app itself rather than the community?
 
