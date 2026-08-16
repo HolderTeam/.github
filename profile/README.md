@@ -36,10 +36,8 @@ Then tell us what happened.
 
 What worked? What was annoying? What was confusing? What did you expect to be possible but couldn't do?
 
-Open an issue even if you don't know what the solution should be. 
-Indeed identifying the problem is vastly more useful,
-once we have a complete understanding of the problem,
-the solutions present themselves!
+Open an issue. Don't worry about the solution. Identifying the problem is vastly more useful.
+Once we have a complete understanding of the problem, the solutions present themselves!
 
 ## There are many ways to contribute
 
