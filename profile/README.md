@@ -1,20 +1,18 @@
 # Holder - Your knowledge belongs to you.
 
+This is the home of the volunteer Holder community.
+
+Holder is free open-source, new, under active development, and looking for people interested in helping shape it.
+
+So HolderTeam is optimistic. At the moment it is just one person, but I have a dream.
+
 Looking for the Holder app itself rather than the community?
 
 Visit the [Holder website](https://holder.team) for downloads, installation and getting started. 
 
-## What is HolderTeam?
-
-This is the home of the open-source Holder community.
-
-Holder is new, under active development, and looking for people interested in helping shape it.
-
-So HolderTeam is optimistic. At the moment it is just one person, but I have a dream.
-
 ## Find your way around
 
-Holder is split into small components rather than one giant repository.
+Holder is not one giant mono repository. Holder is split into small components that each does one thing well.
 
 The main heroes:
 
