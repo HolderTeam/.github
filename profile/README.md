@@ -36,9 +36,10 @@ Then tell us what happened.
 
 What worked? What was annoying? What was confusing? What did you expect to be possible but couldn't do?
 
-**Open an issue even if you don't know what the solution should be.**
-
-That last idea is important. Lots of normal users are intimidated by GitHub Issues because they think an "issue" requires a reproducible software defect and a stack trace.
+Open an issue even if you don't know what the solution should be. 
+Indeed identifying the problem is vastly more useful,
+once we have a complete understanding of the problem,
+the solutions present themselves!
 
 ## There are many ways to contribute
 
