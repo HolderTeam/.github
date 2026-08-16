@@ -50,8 +50,6 @@ Once we have a complete understanding of the problem, the solutions present them
 * **Automated Testing** - making it robust while rapidly developing.
 * **Development** - C++, GTK/Vala, platform integration and eventually mobile.
 
-
 You don't need permission to start looking around. 
 
-But considering open/discuss an issue before doing a massive piece of development.
-I don't want somebody spending three weeks implementing a feature that's incompatible with where Holder is already going.
+For big changes, it's worth opening an issue or starting a discussion first. That way we can work out where the idea fits, share any relevant plans, and make sure your time and effort are well spent.
