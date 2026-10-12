@@ -16,10 +16,15 @@ The Holder mono repository contains small components that each does one thing we
 
 The main heroes:
 
-* **[holder-desktop](https://github.com/HolderTeam/holder/core)** - The main data formats and shared logic.
-* **[holder-desktop](https://github.com/HolderTeam/holder/apps/desktop/gtk)** - The desktop GUI application frontend.
-* **[holder-daemon](https://github.com/HolderTeam/holder/daemon)** - backend, storage.
+* **[Core](https://github.com/HolderTeam/holder/tree/main/core)** - The main data formats and shared logic.
+* **[Desktop App](https://github.com/HolderTeam/holder/tree/main/apps/desktop/gtk)** - The cross-platform desktop GTK GUI application frontend.
+* **[Daemon](https://github.com/HolderTeam/holder/tree/main/daemon)** - local-first backend that provides asynchronous real-time access to Holder data.
+
+The trusty sidekicks:
+
+* **[Release](https://github.com/HolderTeam/holder/tree/main/daemon)** - The CI/CD setup for staging and releasing Holder to users. 
 * **[holder-website](https://github.com/HolderTeam/holder-website)** - the public homepage.
+* **[Python APIs](https://github.com/HolderTeam/holder/tree/main/python)** - allows users to script or automate their Holder projects and cards.
 
 ## Help by using Holder
 
