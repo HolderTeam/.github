@@ -12,19 +12,14 @@ Visit the [Holder website](https://holder.team) for downloads, installation and 
 
 ## Find your way around
 
-Holder is not one giant mono repository. Holder is split into small components that each does one thing well.
+The Holder mono repository contains small components that each does one thing well.
 
 The main heroes:
 
-* **[holder-desktop](https://github.com/HolderTeam/holder-desktop)** - The desktop GUI application frontend.
-* **[holder-daemon](https://github.com/HolderTeam/holder-daemon)** - core Holder backend, storage, API and CLI.
+* **[holder-desktop](https://github.com/HolderTeam/holder/core)** - The main data formats and shared logic.
+* **[holder-desktop](https://github.com/HolderTeam/holder/apps/desktop/gtk)** - The desktop GUI application frontend.
+* **[holder-daemon](https://github.com/HolderTeam/holder/daemon)** - backend, storage.
 * **[holder-website](https://github.com/HolderTeam/holder-website)** - the public homepage.
-
-The trusty sidekicks:
-
-* [holder-launcher](https://github.com/HolderTeam/holder-launcher) - launches and manages Holder components on platforms that need it.
-* [holder-staging](https://github.com/HolderTeam/holder-staging) - build/release infrastructure.
-* [holder-release](https://github.com/HolderTeam/holder-release) - public release artifacts.
 
 ## Help by using Holder
 
